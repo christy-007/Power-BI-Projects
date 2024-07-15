@@ -1,5 +1,6 @@
 
 # Lok Sabha Election Results Dashboard🚀
+![Dashboard Image](banner.png)
 
 
 ## Project Overview 📊
@@ -17,8 +18,3 @@ I analyzed the Lok Sabha election results for the years 2014 and 2019, cleaned t
 - **Dashboard Design:** Designed an intuitive and visually appealing dashboard using Figma, and implemented it in Power BI.
 - **Visualization:** Created various visualizations to represent the election data effectively, making it easy to interpret and analyze.
 
-## Dashboard Image 🖼️
-![Dashboard Image](link-to-your-dashboard-image.png)
-
-## GitHub Repository 🔗
-[Check out the project on GitHub](https://github.com/christy-007/Election_Dashboard_Project)
