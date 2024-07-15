@@ -1,5 +1,6 @@
 
-# Lok Sabha Election Results Dashboard Analysis (2014 & 2019) 🚀
+# Lok Sabha Election Results Dashboard🚀
+
 
 ## Project Overview 📊
 I analyzed the Lok Sabha election results for the years 2014 and 2019, cleaned the datasets, and developed an interactive dashboard as part of my portfolio project. This project showcases my ability to handle large datasets, perform data cleaning, and create insightful visualizations.
